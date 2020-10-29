@@ -5,4 +5,6 @@ SimpleWear allows you to control your Android phone from your watch.
 
 # About
 [Privacy Policy](https://github.com/SimpleAppProjects/SimpleWear/wiki/Privacy-Policy)
+
+# Help
 [Enable Write Secure Settings Permission](https://github.com/SimpleAppProjects/SimpleWear/wiki/Enable-WRITE_SECURE_SETTINGS-permission)
