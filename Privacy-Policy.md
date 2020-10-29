@@ -16,3 +16,6 @@ Allows the application to change the do not disturb state on your phone.
 
 ### Device admin access
 Allows the application to lock your phone from your WearOS device.
+
+### WRITE_SECURE_SETTINGS
+Only used to allow the application to change the location mode.
