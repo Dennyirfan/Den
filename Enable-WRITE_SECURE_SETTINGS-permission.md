@@ -3,7 +3,7 @@ In order for SimpleWear to change settings like **mobile data** and **location**
 ### **Windows**
 1. **Download the ZIP file**
 
-    Download the ZIP file [here](link TBA), and unzip it to a folder on your computer.
+    Download the ZIP file [here](https://github.com/SimpleAppProjects/SimpleWear/releases/download/v1.9.0_r0/SettingsEnabler.zip), and unzip it to a folder on your computer.
 
 2. **Enable USB Debugging**
 
