@@ -16,3 +16,12 @@ Allows the application to change the do not disturb state on your phone.
 
 ### Device admin access
 Allows the application to lock your phone from your WearOS device.
+
+### Bluetooth, Nearby Devices
+Allows the application to pair with wearable device and to toggle Bluetooth state on your phone.
+
+### Phone Access
+Allows the application to know if an active call is present on your phone (for Call Controller feature)
+
+### Contacts
+Allows the application to display caller name, if available (for Call Controller feature)
