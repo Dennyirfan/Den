@@ -1,4 +1,4 @@
-In order for SimpleWear to change settings like **mobile data** and **location** without root access, it needs the WRITE_SECURE_SETTINGS permission. As this is a system permission, it cannot be requested in app and has to be enabled manually. Please use the following tools to enable the permission.
+In order for SimpleWear to change **location** settings without root access, it needs the WRITE_SECURE_SETTINGS permission. As this is a system permission, it cannot be requested in app and has to be enabled manually. Please use the following tools to enable the permission.
 
 ### **Windows**
 1. **Download the ZIP file**
