@@ -56,3 +56,16 @@ Already have or know how to use ADB? Just run the following commands:
 `./adb shell pm grant com.thewizrd.simplewear android.permission.WRITE_SECURE_SETTINGS`
 
 `./adb shell pm grant com.thewizrd.wearsettings android.permission.WRITE_SECURE_SETTINGS`
+
+### Errors
+If you see a similar error when running the script:
+
+`Exception occurred while executing 'grant':
+java.lang.SecurityException: grantRuntimePermission: Neither user xxxx nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.`
+
+Please check if you have one of the following settings in Developer options and enable it:
+
+- USB debugging (Security settings)
+- Disable Permission Monitoring
+
+Lastly, reboot and try again
