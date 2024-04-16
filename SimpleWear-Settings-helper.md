@@ -1,6 +1,6 @@
 Companion app for SimpleWear
 
-Latest version: [SimpleWear Settings v1.1.0](https://github.com/SimpleAppProjects/SimpleWear/releases/download/v1.13.1_release/wearsettings-release-1.1.0.apk)
+Latest version: [SimpleWear Settings v1.1.1](https://github.com/SimpleAppProjects/SimpleWear/releases/download/v1.14.0_beta/wearsettings-release-1.1.1.apk)
 
 ## WiFi and Location Toggle
 
