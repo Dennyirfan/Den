@@ -14,3 +14,7 @@ If you are using Android 10 and above, and want to toggle **Wi-Fi** settings or 
 ## Mobile Data
 
 SimpleWear is unable to toggle mobile data without system permissions. [Root access](https://github.com/SimpleAppProjects/SimpleWear/wiki/Root-Access) or  for unrooted devices, [Shizuku](https://github.com/RikkaApps/Shizuku) can be used. Please follow the instructions in app to start.
+
+## Bluetooth
+
+As of Android 13 (or T), non-system apps are no longer allowed to toggle Bluetooth on or off. This helper app is needed in order to allow SimpleWear to toggle Bluetooth . The helper app is built for an older version of Android which allows it to be able to toggle Bluetooth.
